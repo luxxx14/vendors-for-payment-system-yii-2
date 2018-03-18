@@ -1,9 +1,3 @@
-[![Latest Stable Version](https://poser.pugx.org/yii2woop/yii2-profile/v/stable.png)](https://packagist.org/packages/yii2woop/yii2-profile)
-[![Total Downloads](https://poser.pugx.org/yii2woop/yii2-profile/downloads.png)](https://packagist.org/packages/yii2woop/yii2-profile)
-
-## Описание
-
-
 
 ## Ссылки
 
